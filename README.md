@@ -15,4 +15,12 @@ In this Repository we implemented various feature methods.
   - Forward stepwise selection
   - Backward stepwise elimination
   - Random mutation
-
+## implemented methods
+  - Chi-square 
+  - Cross_Entropy
+  - Fuzzy_Entropy_Measure.cs
+  - Gini_index.cs
+  - Information_Gain.cs
+  - Mutual_Information.cs
+  - Relative_Discrimination_Criteria.cs
+  - Term_Strength.cs 
