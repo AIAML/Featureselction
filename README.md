@@ -5,14 +5,14 @@ in order to select proper subset of feature to increase machine learning accurac
 In this Repository we implemented various feature methods.
 
 ## Feature selection methods
-  -Filter
-  -Wrapper
-  -Embeded
-  -Hybrid#
+  - Filter
+  - Wrapper
+  - Embeded
+  - Hybrid#
 ## Feature Selection strategies:
-  -Forward selection
-  -Backward elimination
-  -Forward stepwise selection
-  -Backward stepwise elimination
-  -Random mutation
+  - Forward selection
+  - Backward elimination
+  - Forward stepwise selection
+  - Backward stepwise elimination
+  - Random mutation
 
