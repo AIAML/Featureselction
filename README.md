@@ -17,10 +17,10 @@ In this Repository we implemented various feature methods.
   - Random mutation
 ## implemented methods
   - Chi-square 
-  - Cross_Entropy
-  - Fuzzy_Entropy_Measure.cs
-  - Gini_index.cs
-  - Information_Gain.cs
-  - Mutual_Information.cs
-  - Relative_Discrimination_Criteria.cs
-  - Term_Strength.cs 
+  - Cross Entropy
+  - Fuzzy Entropy Measure
+  - Gini index
+  - Information Gain
+  - Mutual Information
+  - Relative Discrimination Criteria
+  - Term Strength
