@@ -15,7 +15,7 @@ In this Repository we implemented various feature methods.
   - Forward stepwise selection
   - Backward stepwise elimination
   - Random mutation
-## implemented methods
+## implemented filter methods
   - Chi-square 
   - Cross Entropy
   - Fuzzy Entropy Measure
