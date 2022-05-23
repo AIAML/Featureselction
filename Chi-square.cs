@@ -12,6 +12,7 @@
         private int[,] E;
         private int[,] D;
         string ds = "";
+       // Input dataset and classes
         public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
             this.Data = Data_t;
