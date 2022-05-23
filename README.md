@@ -24,3 +24,7 @@ In this Repository we implemented various feature methods.
   - Mutual Information
   - Relative Discrimination Criteria
   - Term Strength
+
+## How to use code
+In order to use these code you need to send your data and classes in 2d dimention. also you need to pass your dataset type
+we provide varoius dataset in our github.
