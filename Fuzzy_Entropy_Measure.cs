@@ -1,4 +1,8 @@
- class FuzzyEntropy
+// Calculate Fuzzy Entropy metric for each feature (Word)
+// sort features based on their Fuzzy entropy value
+// Remove some percentage of features
+ 
+class FuzzyEntropy
     {
         MLAppClass matlab = new MLAppClass();
         //Intialize Varaibles
