@@ -103,6 +103,5 @@
                     MI_R[1, features] = SUM_Term[features];
                     MI_R[2, features] = (features+1);
                 }//for (int k = 1; k <= Class_count; k++)
-            }//for (int features = 0; features < Data.GetLength(1); features++)
-
+            }
         }
