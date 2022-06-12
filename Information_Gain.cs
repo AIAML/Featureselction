@@ -89,7 +89,6 @@ namespace FuzzyEntropy_antColony
                     P_C[c,i] = (float)((float)sum_p / (float)Data.GetLength(0))/(float)P[i];
                 }
             }
-            //==========================================================================================================================
             double gain = 0;
             
             for (int i = 0; i < Data.GetLength(1); i++)
