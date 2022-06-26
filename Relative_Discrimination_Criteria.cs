@@ -41,7 +41,6 @@
                     }
                 }
             }
-
             MLAppClass matlab = new MLAppClass();
             byte max = 0;
             byte max_all = 0;
