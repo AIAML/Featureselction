@@ -12,8 +12,8 @@
         private double[,] Gini;
         private float[] H_Class;
         string ds = "";
-        
-        public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
+
+    public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
             this.Data = Data_t;
             this.Class = Class_t;
