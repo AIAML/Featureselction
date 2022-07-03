@@ -31,7 +31,6 @@
             this.MI_R = new double[3,Data.GetLength(1)];
             this.SUM_Term = new int[Data.GetLength(1)];
         }
-
         public void Calculate_MI2(string saveResult_url)
         {
 
