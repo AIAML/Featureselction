@@ -12,8 +12,8 @@
         string ds = "";
         public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
-            this.Data = Data_t;
             this.Class = Class_t;
+            this.Data = Data_t;
             this.Type_Dataset = Type_Dataset_t;
             this.TCMAX = new byte[Data_t.GetLength(1)];
             this.SUM_Term = new int[Data.GetLength(1)];
