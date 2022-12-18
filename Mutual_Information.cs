@@ -1,5 +1,6 @@
     class MI
     {
+        
         private byte[,] Data;
         private byte[,] Class;
         private byte Class_count;
@@ -12,6 +13,7 @@
         private int[,] D;
         private int[] SUM_Term;
         string ds = "";
+        
         public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
             this.Data = Data_t;
