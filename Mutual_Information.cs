@@ -1,6 +1,5 @@
     class MI
     {
-        
         private byte[,] Data;
         private byte[,] Class;
         private byte Class_count;
