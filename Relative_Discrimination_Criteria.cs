@@ -62,7 +62,6 @@
             }
                 Document_frequencies_terms = new int[max_all, Data.GetLength(1) , Class_count];
 
-
             this.RDC_info = new float[max_all, Data.GetLength(1)];
             this.AUCt = new double[3,Data.GetLength(1)];
 
