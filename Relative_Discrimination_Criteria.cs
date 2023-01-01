@@ -73,7 +73,7 @@
             int min_count_per_term ;
             int max_count_per_term;
             double difference_TC;
-            
+            //
             for (int i = 1; i <= max_all; i++)
             {
                 
