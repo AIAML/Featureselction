@@ -17,7 +17,6 @@
         private double[,] TS_;
         private float[] H_Class;
         string ds = "";
-        
         public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
             this.Data = Data_t;
@@ -80,9 +79,7 @@
                     C_T[c, i] = (float)((float)sum_p / (float)Data.GetLength(0)) / (float)T[i];
                 }
             }
-
-            //=================================================================================================================================================================
-
+     
             double TS = 0;
 
             for (int i = 0; i < Data.GetLength(1); i++)
