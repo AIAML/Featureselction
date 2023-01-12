@@ -4,6 +4,7 @@ Using Feature selection methods in high dimensionality of feature space are vita
 in order to select proper subset of feature to increase machine learning accuracy.
 In this Repository we implemented various feature methods.
 
+
 ## Feature selection methods
   - Filter
   - Wrapper
@@ -24,6 +25,7 @@ In this Repository we implemented various feature methods.
   - Mutual Information
   - Relative Discrimination Criteria
   - Term Strength
+
 
 ## How to use code
 In order to use these code you need to send your data and classes in 2d dimention. also you need to pass your dataset type
