@@ -59,8 +59,6 @@ class FuzzyEntropy
                     }
                 }
             }
-
-
             count_class = new int[number_class];
             Sum_Sample_feature = new double[number_class];
             V = new double[number_class,feature_count];
