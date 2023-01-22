@@ -55,7 +55,6 @@
                     }
                 }
             }
-
             for (int features = 0; features < Data.GetLength(1) ; features++)
             {
                 for (int k = 1; k <= Class_count; k++)
