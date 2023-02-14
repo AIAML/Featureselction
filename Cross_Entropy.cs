@@ -17,7 +17,6 @@ namespace FuzzyEntropy_antColony
         private double[,] CrossEntropy_;
         private float[] H_Class;
         string ds = "";
-        
         public void GetData(byte[,] Data_t, byte[,] Class_t, byte Type_Dataset_t)
         {
             this.Data = Data_t;
