@@ -35,6 +35,7 @@ namespace FuzzyEntropy_antColony
                 Class_count = 20;
             }
         }
+        
         public void Calculate_CrossEntropy(string saveResult_url)
         {
             int sum_p;
