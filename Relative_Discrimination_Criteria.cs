@@ -29,6 +29,7 @@
                 Class_count = 20;
             }
         }
+        
         public void Calculate_RDC(string saveResult_url)
         {
             for (int i = 0; i < Data.GetLength(1); i++)
