@@ -4,6 +4,7 @@ using System.Text;
 using MLApp;
 namespace FuzzyEntropy_antColony
 {
+    
     class CrossEntropy
     {
         private byte[,] Data;
